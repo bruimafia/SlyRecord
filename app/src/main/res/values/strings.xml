@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SlyRecord</string>
+
+    <string name="before">Для начала записи нажмите на значок микрофона</string>
+    <string name="recording">Внимание! Идет запись...</string>
+    <string name="after">Запись завершена!\nМожете прослушать аудиофайл</string>
+    <string name="playing">Воспроизведение записи...</string>
+    <string name="playing_end">Воспроизведение завершено!\nМожете прослушать аудиофайл еще раз либо записать новый</string>
+
+</resources>
